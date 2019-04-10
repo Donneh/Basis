@@ -1,0 +1,14 @@
+{
+    "name": "donneh/basis",
+    "description": "Very simple framework, made for learning purposes.",
+    "authors": [
+        {
+            "name": "Donny van Walsem",
+            "email": "donnehvw@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"Basis\\":  ""}
+    },
+    "require": {}
+}
